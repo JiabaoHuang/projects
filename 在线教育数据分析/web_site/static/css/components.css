@@ -1,0 +1,29 @@
+aside {
+    display: inline-block !important;
+    width: 100px !important;
+    background-color: rgba(0, 0, 0, 1);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+aside section {
+    padding: 5px;
+}
+
+
+.panel {
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+
+.pd10 {
+    padding: 10px;
+}
+
+.header {
+    background-color: rgba(0, 0, 0, 0.45);
+    padding: 12px 15px 12px;
+    margin-bottom: 10px;
+}
